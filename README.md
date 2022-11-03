@@ -1,4 +1,9 @@
-# vue-distributed-component
+# vue3-distributed-component
+
+> Thanks for [@maoberlehner](https://github.com/maoberlehner)
+>
+> https://github.com/maoberlehner/distributed-vue-applications-loading-components-via-http.git
+
 
 ## Project setup
 ```
